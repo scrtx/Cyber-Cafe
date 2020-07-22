@@ -1,0 +1,3 @@
+# Week 1
+- Analyzed a related software to prepare a literature review of it.
+- Created repo in GitHub

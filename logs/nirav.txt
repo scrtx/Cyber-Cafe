@@ -1,1 +1,3 @@
-
+Week 1
+  - Studied about Version Control Systems and Github
+  - Studied a similar program and prepared a literature review

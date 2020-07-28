@@ -1,1 +1,7 @@
+Week 1
+-literature review on Antamedia Internet Cafe
+-learned how to use git and github.
 
+Week2
+-Enlisted the features of the project
+-Mockup paper design

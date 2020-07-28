@@ -1,3 +1,7 @@
 #Week 1
 -Studied about a software for literature review.
 -Studied about github, its installation and functioning. 
+
+#Week 2
+-Enlisted the features of our project.
+-Discussed about mockup design, literature review compilation and database model with the team. 

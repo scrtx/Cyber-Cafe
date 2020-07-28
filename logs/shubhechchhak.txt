@@ -1,3 +1,8 @@
 # Week 1
 - Analyzed a related software to prepare a literature review of it.
-- Created repo in GitHub
+- Created repo in GitHub and learned about Git and GitHub
+
+#Week2
+- Created a model of database and its general structure
+- Worked on creating Mockup design with other contributors
+- Enlisted the features to apply to the project

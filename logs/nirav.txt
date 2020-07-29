@@ -1,3 +1,6 @@
 Week 1
   - Studied about Version Control Systems and Github
   - Studied a similar program for literature review
+Week 2
+  - Mockup Design discussion with the team
+  - Feature Collection for the program 

@@ -1,3 +1,7 @@
 Week 1
 -Learned about github and how to use it.
 -Researched software for literature review.
+
+Week 2
+-Discussed about mockup design and database model with the team.
+-Enlisted features of our project.

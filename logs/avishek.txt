@@ -8,5 +8,5 @@
 
 #Week 3
 -Prepared a work flow chart of our system.
--Discusses about using SQL and QT for our project.
+-Discussed about using SQL and QT for our project.
 -Studied briefly about SQL and QT.

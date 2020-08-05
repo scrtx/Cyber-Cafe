@@ -5,3 +5,7 @@ Week 1
 Week 2
 -Discussed about mockup design and database model with the team.
 -Enlisted features of our project.
+
+Week 3
+-Briefly researched Qt and SQL.
+-Prepared Workflow diagram of system.

@@ -7,3 +7,6 @@ Week 2
 Week 3
   - Created Work flow design with the team
   - Brief study about Qt and SQL.
+Week 4
+  - Studied Qt and SQL 
+  - Inspected some programs made with Qt

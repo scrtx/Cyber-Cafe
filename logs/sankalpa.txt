@@ -7,5 +7,9 @@ Week 2
 -Enlisted features of our project.
 
 Week 3
--Briefly researched Qt and SQL.
 -Prepared Workflow diagram of system.
+-Briefly studied project system.
+
+Week 4
+-Briefly researched MySQL DBMS.
+-Studied about Qt and its uses.

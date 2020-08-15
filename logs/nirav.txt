@@ -4,3 +4,9 @@ Week 1
 Week 2
   - Mockup Design discussion with the team
   - Feature Collection for the program 
+Week 3
+  - Created Work flow design with the team
+  - Brief study about Qt and SQL.
+Week 4
+  - Studied Qt and SQL 
+  - Inspected some programs made with Qt

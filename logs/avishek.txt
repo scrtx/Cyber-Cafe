@@ -5,3 +5,8 @@
 #Week 2
 -Enlisted the features of our project.
 -Discussed about mockup design, literature review compilation and database model with the team. 
+
+#Week 3
+-Prepared a work flow chart of our system.
+-Discussed about using SQL and QT for our project.
+-Studied briefly about SQL and QT.

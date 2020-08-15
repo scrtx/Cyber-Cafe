@@ -5,3 +5,11 @@ Week 1
 Week 2
 -Discussed about mockup design and database model with the team.
 -Enlisted features of our project.
+
+Week 3
+-Briefly researched MySQL and Qt.
+-Prepared Workflow diagram of system.
+
+Week 4
+-Studied about MySQL Qt and its uses.
+-Looked up some uses of Qt

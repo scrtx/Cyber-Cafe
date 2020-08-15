@@ -5,3 +5,12 @@ Week1
 Week2
 -Features enlistment of project
 -Mockup paper design
+
+Week3
+-created workflow diagram
+-studied about project system
+-made a chart about project system functioning
+
+Week4
+-Studied about some basic uses of Qt
+-Studied about MySQL DBMS

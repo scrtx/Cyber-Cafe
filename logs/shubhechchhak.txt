@@ -2,7 +2,15 @@
 - Analyzed a related software to prepare a literature review of it.
 - Created repo in GitHub and learned about Git and GitHub
 
-#Week2
+# Week2
 - Created a model of database and its general structure
 - Worked on creating Mockup design with other contributors
 - Enlisted the features to apply to the project
+
+# Week 3
+- Worked on creating workflow diagram for the system
+- Did some research to select the dependencies to use in the project
+
+# Week 4
+- Looked up some other projects that implement Qt to make a nice looking GUIs
+- Researched ways to use Qt with MySQL to implement in the project

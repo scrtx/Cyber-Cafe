@@ -13,3 +13,11 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
+
+void MainWindow::on_pushButton_asGuest_clicked()
+{
+    hide();
+    guestWindow=new GuestWindow(this);
+
+    guestWindow->show();
+}

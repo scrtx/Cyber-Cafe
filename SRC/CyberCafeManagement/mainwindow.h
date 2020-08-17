@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include "guestwindow.h"
+#include "adminwindow.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -19,8 +20,11 @@ public:
 private slots:
     void on_pushButton_asGuest_clicked();
 
+    void on_pushButton_asAdmin_clicked();
+
 private:
     Ui::MainWindow *ui;
     GuestWindow *guestWindow;
+    AdminWindow *adminWindow;
 };
 #endif // MAINWINDOW_H

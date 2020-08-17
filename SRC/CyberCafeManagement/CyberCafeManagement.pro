@@ -16,15 +16,21 @@ DEFINES += QT_DEPRECATED_WARNINGS
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
+    adminhome.cpp \
+    adminwindow.cpp \
     guestwindow.cpp \
     main.cpp \
     mainwindow.cpp
 
 HEADERS += \
+    adminhome.h \
+    adminwindow.h \
     guestwindow.h \
     mainwindow.h
 
 FORMS += \
+    adminhome.ui \
+    adminwindow.ui \
     guestwindow.ui \
     mainwindow.ui
 

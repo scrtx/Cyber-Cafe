@@ -21,3 +21,10 @@ void MainWindow::on_pushButton_asGuest_clicked()
 
     guestWindow->show();
 }
+
+void MainWindow::on_pushButton_asAdmin_clicked()
+{
+    hide();
+    adminWindow= new AdminWindow(this);
+    adminWindow->show();
+}

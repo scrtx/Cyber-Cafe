@@ -14,3 +14,7 @@ Week3
 Week4
 -Studied about some basic uses of Qt
 -Studied about MySQL DBMS
+
+Week5
+-Created Adminhome page
+-Created Adminlogin page
